@@ -521,4 +521,6 @@ table td { text-overflow: ellipsis; overflow: hidden; max-width: 15em; }
 
 .highlight .gd { color: #ff5555; }
 
+.site-footer .footer-col-wrapper > .footer-col:last-child { text-align: center; }
+
 /*# sourceMappingURL=style.css.map */
