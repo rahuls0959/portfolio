@@ -36,11 +36,15 @@ url: "https://rahuls0959.github.io" # the base hostname & protocol for your site
 #
 baseurl: "/portfolio" # the subpath of your site, e.g. "/blog".
 
-# Github and twitter are optional:
+# Social links are rendered by the Minima remote theme:
 minima:
   social_links:
-    twitter: rahulsingla0959
-    github: rahuls0959
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/rahul-singla1/"
+    - title: GitHub repositories
+      icon: github
+      url: "https://github.com/rahuls0959?tab=repositories"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
